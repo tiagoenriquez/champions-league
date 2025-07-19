@@ -17,9 +17,9 @@ Abaixo os enpoints da aplicação:
 <table>
   <thead>
     <tr>
-      <td>Rota</td>
-      <td>Verbo</td>
-      <td>Ação</td>
+      <th>Rota</td>
+      <th>Verbo</td>
+      <th>Ação</td>
     </tr>
   </thead>
   <tbody>
